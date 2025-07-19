@@ -57,7 +57,7 @@ Task Office is a project and task management application that allows users to cr
 ## 🖼️ Preview
 
 ![Task Office Screenshot 1](https://setapp.com/cdn-cgi/image/quality=75,format=auto/https://cdn.setapp.com/blog/images/activity-monitor-windowsserver-process.webp)  
-![Task Office Screenshot 2](https://static.macupdate.com/screenshots/323937/m/task-office-screenshot.webp?v=1662900171)
+![Task Office Screenshot 2](https://mac.eltima.com/wp-content/uploads/2024/02/SCR-20240221-rkpq.png)
 
 ---
 
